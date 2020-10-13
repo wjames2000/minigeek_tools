@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"minigeek.com/minigeek_tools/log"
-	"minigeek.com/minigeek_tools/uuid"
+	"git.ningdatech.com/minigeek_tools/log"
+	"git.ningdatech.com/minigeek_tools/uuid"
 )
 
 // 随机数种子
